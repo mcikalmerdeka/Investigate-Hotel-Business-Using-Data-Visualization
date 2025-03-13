@@ -1,5 +1,7 @@
 # Investigate Hotel Business Using Data Visualization
 
+![Project Header](https://raw.githubusercontent.com/mcikalmerdeka/Investigate-Hotel-Business-Using-Data-Visualization/refs/heads/main/Assets/Project%20Header.jpg)
+
 **This project originally came from an assignment after a data science bootcamp program that I attended. Which is why you can see there are several folders of tasks that contain instructions about business questions that must be answered based on data and my presentation file for each of them.**
 
 ## Project Description
